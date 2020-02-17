@@ -1,0 +1,7 @@
+pybatfish
+jinja2
+capirca
+pyyaml
+pytest
+netaddr
+ansible
